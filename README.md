@@ -14,11 +14,6 @@ When I'm not coding, I enjoy exploring new tech, learning, and watching tech-rel
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ali-gad-40137a2a4/) 🌟  
 
 <hr>
-<h3 align="left">✨ Random Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
 
 <img align="right" height="250" width="375" alt="coding gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 

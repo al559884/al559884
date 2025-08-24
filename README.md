@@ -1,90 +1,38 @@
 ## Hey there 👋, I'm [Aly Gad!](https://github.com/AliGad)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-gad-40137a2a4/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AliGad&label=Profile%20views&color=0e75b6&style=flat" alt="AliGad" /> </p>
+I'm a Computer Science graduate 🎓 and a passionate **Front-End Developer** who loves building modern web applications with clean and efficient code.  
+Always learning and exploring new technologies in the world of web development 🚀.  
 
-I am a **Front-End Developer** with a strong foundation in **Computer Science**. 🎓  
-I specialize in building modern, responsive, and scalable web applications using the latest front-end technologies.  
+- 🔭 I’m currently working on enhancing my skills in **React.js & Tailwind CSS**  
+- 🌱 I’m currently learning **Redux & API integration**  
+- 👯 I’m looking to collaborate on **front-end projects**  
+- 📫 How to reach me: your-email@gmail.com  
 
-I'm passionate about problem-solving, clean code, and creating interactive user experiences.  
-When I'm not coding, I enjoy exploring new tech, learning, and watching tech-related content.  
+---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ali-gad-40137a2a4/) 🌟  
+### ⚒️ Languages and Tools
 
-<hr>
-<h3 align="left">✨ Random Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<img align="right" height="250" width="375" alt="coding gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+---
 
-### Talking about Personal Stuff:
+### 📊 GitHub Stats
+![Aly Gad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliGad&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliGad&layout=compact&theme=tokyonight)
 
-- 🛠 &nbsp; I’m currently working with **JS, React, Redux, TailwindCSS, SQL, APIs**.
-- 🚀 &nbsp; I’m currently exploring **Docker & modern frontend architectures**.
-- 💬 &nbsp; Ask me anything [here](https://github.com/AliGad/AliGad/issues)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: [LinkedIn](https://www.linkedin.com/in/ali-gad-40137a2a4/).
+---
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; Building responsive, scalable UIs with React & Tailwind.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups, Tech Events & Hackathons.
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="redux"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/api/api.png" alt="api"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="tailwind"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="github"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="mysql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="docker"></code>
-
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliGad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGad&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AliGad&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows / Linux</li>
-	    <li><b>Laptop: </b> Whatever gets the job done ⚡</li>
-  	    <li><b>Browser: </b> Chrome</li>
-	    <li><b>Code Editor:</b> VSCode - My favorite editor</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Docker</li>
-	    <li><b>To Stay Updated:</b> LinkedIn, Dev.to, Medium</li>
-	</ul>
-</details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+⭐️ From [Aly Gad](https://github.com/AliGad)
